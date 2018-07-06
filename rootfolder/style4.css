@@ -1,0 +1,56 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+.goku{
+   width: 400px;
+}
+
+ul{
+
+margin-left: 50px;
+margin-bottom: 20px;
+
+}
+body{
+
+  background-image: url(game1.jpg);
+  background-size: cover;
+
+}
+#le{
+margin: 50px 50px 30px 250px;
+
+
+}
+
+
+
+nav{
+  margin-left: 300px;
+  width: 50%;
+  height: 100px;
+  background-image: url(ban1.jpg);
+}
+
+ul li{
+  list-style : none;
+  display: inline-block;
+  float: left;
+  line-height: 100px;
+}
+
+ul li a{
+
+  color: White;
+  font-weight: 700;
+font-size: 14px;
+padding: 0px 40px;
+text-align: justify;
+
+
+}
+ul li a:hover{
+  color: RED;
+}
